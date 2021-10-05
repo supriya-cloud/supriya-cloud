@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### 🌱 I’m currently learning Artificial Intelligence and Machine Learning
+
+### 📫 How to reach me: supriya.ghodke39@gmail.com
+
 <!--
 **supriya-cloud/supriya-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
