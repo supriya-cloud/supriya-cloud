@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🌱 I’m currently learning Artificial Intelligence and Machine Learning
+### 🌱I’m currently learning Artificial Intelligence and Machine Learning  
 
 ### 📫 How to reach me: supriya.ghodke39@gmail.com
 
