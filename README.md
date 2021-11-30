@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### 🌱I’m currently learning Artificial Intelligence and Machine Learning  
+### 🔭I’m currently working on Artificial Intelligence and Machine Learning Projects
+
+### 💬 Ask me about IOT Projects and AI,ML
 
 ### 📫 How to reach me: supriya.ghodke39@gmail.com
 
