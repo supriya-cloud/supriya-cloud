@@ -6,6 +6,8 @@
 
 ### 📫 How to reach me: supriya.ghodke39@gmail.com
 
+### 🌱Academic ePortfolio:  https://eportfolio.greatlearning.in/supriya-dattatraya-ghodke2
+
 <!--
 **supriya-cloud/supriya-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
