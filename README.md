@@ -36,10 +36,10 @@
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supriya&show_icons=true&locale=en&layout=compact" alt="supriya" /></p>
 
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supriya&show_icons=true&locale=en" alt="supriya" /></p> -->
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supriya&show_icons=true&locale=en" alt="supriya" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriya&" alt="supriya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriya&" alt="supriya" /></p>   -->
 
 
 
