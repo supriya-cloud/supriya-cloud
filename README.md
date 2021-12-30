@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Supriya</h1>
+<h1 align="center">Hi There👋, I'm Supriya</h1>
 
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning developer from India</h3>
 
